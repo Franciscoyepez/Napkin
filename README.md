@@ -1,2 +1,2 @@
 # Napkin
-A simple note-taking web service used to create and manage notes.
+A simple note-taking application used to create and manage notes.
